@@ -1,0 +1,20 @@
+{
+  "name": "studentmanagementsystem_by_abeera200",
+  "version": "1.0.0",
+  "description": "This is our StudentManagementSystem program The student management system is an environment where all the process of the student in the institution is managed .It is done through the automated computerized method.",
+  "main": "stdmain.js",
+  "type": "module",
+  "bin": "stdmain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AbeeraKhalid",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
