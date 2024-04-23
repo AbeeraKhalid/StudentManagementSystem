@@ -3,8 +3,8 @@
 
 import chalk from "chalk";
 console.log(
-  chalk.italic.bgCyanBright.magentaBright(
-    "<<||**STUDENT MANAGEMENT SYSTEM**||>>"
+  chalk.italic.bgWhite.redBright(
+    "\n\t\t<<**STUDENT MANAGEMENT SYSTEM**!!>>\n\n\t\t"
   )
 );
 class School {

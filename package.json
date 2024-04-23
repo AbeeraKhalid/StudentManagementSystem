@@ -1,6 +1,6 @@
 {
   "name": "studentmanagementsystem_by_abeera200",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is our StudentManagementSystem program The student management system is an environment where all the process of the student in the institution is managed .It is done through the automated computerized method.",
   "main": "stdmain.js",
   "type": "module",
