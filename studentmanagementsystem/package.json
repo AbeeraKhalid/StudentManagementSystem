@@ -1,0 +1,17 @@
+{
+  "name": "abeera_200_studentmanagementsystem",
+  "version": "1.0.0",
+  "description": "This is StudentManagementSystem programby using chalk inquirer,npm package and different methods.The student management system is an environment where all the process of the student in the institution is managed .It is done through the automated computerized method",
+  "main": "std.ts",
+  "type": "module",
+  "bin": "std.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AbeeraKhalid",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.20"
+  }
+}
